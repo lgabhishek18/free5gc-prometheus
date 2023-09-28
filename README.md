@@ -17,7 +17,7 @@ Because we need to create tunnel interface, we need to use privileged container 
 
 ```bash
 # Clone the project
-git clone https://github.com/free5gc/free5gc-compose.git
+git clone https://github.com/ENSREG/free5gc-prometheus.git
 cd free5gc-compose
 
 # Build the images
